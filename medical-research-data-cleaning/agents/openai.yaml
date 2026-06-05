@@ -1,0 +1,4 @@
+display_name: Medical Research Data Cleaning
+short_description: Prepare retrospective medical research datasets for leakage-safe modeling.
+default_prompt: Clean and feature-engineer this medical research dataset for statistical or machine-learning modeling. Protect raw data, classify variables, handle reporting limits and clinically informative missingness, split data without leakage, impute, process outliers, encode, scale, and produce audit reports.
+
