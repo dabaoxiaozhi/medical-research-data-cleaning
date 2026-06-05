@@ -1,5 +1,7 @@
 # Medical Research Data Cleaning Skill
 
+[中文说明 / Chinese README](README.zh-CN.md)
+
 This repository contains a disease-agnostic Codex skill for preparing retrospective medical research datasets for statistical analysis or machine-learning modeling.
 
 The installable skill folder is:
@@ -48,4 +50,3 @@ Do not publish patient-level data, private field lists, raw datasets, cleaned da
 ## Disclaimer
 
 This skill supports reproducible research data preprocessing. It does not provide medical advice and should be reviewed by clinical and statistical collaborators before manuscript submission or deployment.
-
